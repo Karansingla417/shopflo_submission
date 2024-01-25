@@ -29,7 +29,7 @@ Welcome to the Social Media Insights Microservice project! This microservice is 
    ```bash
    npm start
    ```
-   The application will be accessible at [http://localhost:3000](http://localhost:3000).
+   The application will be accessible at [http://localhost:3000](http://localhost:3001).
 
 ## API Endpoints
 
